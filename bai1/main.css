@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    color:blueviolet;
+    font-family: courier;
+    text-align: center;
+}
+
+h1{
+    color: aqua; 
+    font-size: 30px; 
+    background-color:cadetblue;
+}
+
+h2{
+    color:brown;
+}
+
+pre{
+    
+    text-align: center;
+}
+
